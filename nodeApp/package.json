@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cbor": "^4.1.1",
+    "node-fetch": "^2.3.0",
+    "sawtooth-sdk": "^1.0.5"
+  }
+}

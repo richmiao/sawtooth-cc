@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "id": "260c8c39caf9896af3ec4a9a3050a3b2366a75c3e4db77f5226cab656edb02ac7dfc969064087c912ca8bb477653d427581b9489b7c1827d486fdc483dca2177",
+      "invalid_transactions": [],
+      "status": "COMMITTED"
+    }
+  ],
+  "link": "http://rest-api:8008/batch_statuses?id=260c8c39caf9896af3ec4a9a3050a3b2366a75c3e4db77f5226cab656edb02ac7dfc969064087c912ca8bb477653d427581b9489b7c1827d486fdc483dca2177"
+}
